@@ -502,7 +502,7 @@ class FlightBooking extends StatelessWidget {
                                                                   Get.width / 3,
                                                               title:
                                                                   'Select Flight',
-                                                              fontSize: 13,
+                                                              fontSize: 10,
                                                               fontWeight:
                                                                   FontWeight
                                                                       .w500,
@@ -748,7 +748,7 @@ class FlightBooking extends StatelessWidget {
                                                                 Get.width / 3,
                                                             title:
                                                                 'Select Flight',
-                                                            fontSize: 13,
+                                                            fontSize: 10,
                                                             fontWeight:
                                                                 FontWeight.w500,
                                                           ),
